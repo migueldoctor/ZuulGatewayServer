@@ -4,4 +4,4 @@ This repo contains the code to create a Spring Cloud Netflix Zuul Gateway Server
 
 The step by step guide and the explanation can be found on Medium:
 
-[Spanish version](https://medium.com/@migueldoctor/spring-cloud-series-crea-un-servicio-de-registro-y-descubrimiento-con-spring-cloud-netflix-eureka-4758615ad4cb)
+[Spanish version](https://medium.com/@migueldoctor/spring-cloud-series-crea-y-configura-paso-a-paso-un-servicio-gateway-para-routing-y-balanceo-de-aaf79398d39e)
